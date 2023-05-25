@@ -1,0 +1,26 @@
+.textevinho{
+    color: #ffffff;
+}
+
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.flexbox > div{
+    flex: 1 1 200px;
+    margin: 10px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 35px;
+}
+
+h2{
+    color: #ffffff;
+}
+
