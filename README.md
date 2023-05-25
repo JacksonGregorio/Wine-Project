@@ -2,5 +2,5 @@
 
 http://qualmelhorvinho.epizy.com
 
-Projeto feito para a disciplina de DWE do IFSP-campus cubatão, não termiando sujeito a mudanças.
+Projeto feito para a disciplina de DWE do IFSP-campus cubatão, não terminado sujeito a mudanças.
 
