@@ -12,7 +12,8 @@ const Vinhos = [
     {_id:33, nome: 'Vinho Frances', valor: 129.99, imagem: (vinho4), 
     desc:"A França é um dos países mais renomados no mundo do vinho, e por boas razões. Com mais de 400 denominações de origem controlada, o país oferece uma variedade incrível de estilos e sabores de vinhos. As regiões produtoras mais famosas da França são Bordeaux, Borgonha e Champagne. Os vinhos franceses são frequentemente caracterizados por sua elegância e sofisticação, resultado de uma tradição centenária de produção de vinhos de alta qualidade. As uvas mais comuns utilizadas na produção de vinhos franceses são a Cabernet Sauvignon, Merlot, Pinot Noir, Chardonnay e Sauvignon Blanc. Os vinhos franceses podem ser bastante caros, mas também existem opções mais acessíveis, especialmente na região do Languedoc, no sul da França." },
     {_id:44, nome: 'Vinho Português', valor: 229.99, imagem: (vinho5), 
-    desc:"Portugal é um país que possui uma longa história de produção de vinhos, e sua tradição é evidenciada pelas muitas regiões produtoras espalhadas pelo país. As regiões produtoras mais famosas de Portugal são o Douro, Alentejo e Vinho Verde. Os vinhos portugueses são frequentemente caracterizados por sua complexidade e elegância, resultado de uma combinação" }
+    desc:"Portugal é um país que possui uma longa história de produção de vinhos, e sua tradição é evidenciada pelas muitas regiões produtoras espalhadas pelo país. As regiões produtoras mais famosas de Portugal são o Douro, Alentejo e Vinho Verde. Os vinhos portugueses são frequentemente caracterizados por sua complexidade e elegância, resultado de uma combinação" },
+    
   ];
 
 

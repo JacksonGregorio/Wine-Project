@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from '../../navbar/navbar';
+import reporta from '../../Fotos/report (6).pdf'
 
 
 
@@ -64,7 +65,7 @@ function Professor() {
        <br></br>
        <strong>Robots</strong>:http://qualmelhorvinho.epizy.com/robots.txt
      <br></br>
-       <strong>Relátorio Analytics</strong>:
+       <strong>Relátorio Analytics</strong>:<a href={reporta}> baixa aqui</a>
      <br></br>
    </p>
    </div>

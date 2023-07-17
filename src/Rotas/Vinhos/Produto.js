@@ -22,12 +22,14 @@ function Produto() {
           <div  className='container '>
           <div className='detalhes'>
           <div>
-          <h2>{produto.nome}</h2>
+          <h3>{produto.nome}</h3>
           <div>
           <img src={produto.imagem} alt={produto.nome} className='detalhesimg'/>
           <p>{produto.desc}</p>
           </div>
+          <div className='Color-price'>
           <h3>Valor R$:{produto.valor}</h3>
+          </div>
           </div>
           </div>
           </div>
